@@ -1,0 +1,3 @@
+[0.000000] (-) TimerEvent: {}
+[0.000234] (-) JobUnselected: {'identifier': 'temperature_monitor'}
+[0.000386] (-) EventReactorShutdown: {}

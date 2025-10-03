@@ -1,3 +1,0 @@
-[console_scripts]
-monitor_node = temperature_monitor.temperature_logger:main
-publisher_node = temperature_monitor.enhanced_sensor_node:main
